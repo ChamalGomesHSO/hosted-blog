@@ -1,6 +1,9 @@
 theme: jekyll-theme-chirpy
 title: My Chirpy Blog
-description: A blog fully deployed via GitHub Actions
+tagline: A simple blog # it will display as the subtitle
+description: >- # used by seo meta and the atom feed
+   A blog fully deployed via GitHub Actions.
+  
 baseurl: "/hosted-blog"
 url: "https://chamalgomeshso.github.io"
 # plugins:
