@@ -3,5 +3,5 @@ title: My Chirpy Blog
 description: A blog fully deployed via GitHub Actions
 baseurl: ""
 url: "https://chamalgomeshso.github.io"
-github:
-  repository_url: https://github.com/chamalgomeshso/hosted-blog
+# github:
+#   repository_url: https://github.com/chamalgomeshso/hosted-blog
