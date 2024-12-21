@@ -1,7 +1,7 @@
 theme: jekyll-theme-chirpy
 title: My Chirpy Blog
 description: A blog fully deployed via GitHub Actions
-baseurl: ""
+baseurl: "/hosted-blog"
 url: "https://chamalgomeshso.github.io"
 # plugins:
 #   - jekyll-feed
