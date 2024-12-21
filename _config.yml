@@ -3,5 +3,13 @@ title: My Chirpy Blog
 description: A blog fully deployed via GitHub Actions
 baseurl: ""
 url: "https://chamalgomeshso.github.io"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
 # github:
 #   repository_url: https://github.com/chamalgomeshso/hosted-blog
